@@ -343,7 +343,7 @@ func main_parsing(db string, output string) {
 	/*
 	   WiFiConnectedEvents
 	   SRUMAppActivity
-	   WLANScanResults(session, out_dir)
+	   WLANScanResults
 	   SRUMNetworkUsageActivity
 	*/
 
